@@ -8,6 +8,6 @@ Ex: 2 **Shor's Algorithm.** Created a circuit that carries out the quantum part 
 
 Ex: 3 **Quantum error correction.** Create circuits which can detect x and z errors on two qubits
 
-Ex: 4 **Transmon qubit.** Finding  transition frequency ** |1⟩ --> |2⟩ using the calibrated X-180 pulse and spectroscopy (sweeping frequency).
+Ex: 4 **Transmon qubit.** Finding  transition frequency |1⟩ --> |2⟩ using the calibrated X-180 pulse and spectroscopy (sweeping frequency).
 
 Ex: 5 
