@@ -6,7 +6,7 @@ Ex: 1 Implementation of the Toffoli gate using the basis gates for IBM Quantum s
 
 Ex: 2 **Shor's Algorithm.** Created a circuit that carries out the quantum part of Shor’s algorithm. Finally factorising 35 using the algorithm.
 
-Ex: 3 **Quantum error correction.** Create circuits which can detect `x` and `z` errors on two qubits
+Ex: 3 **Quantum error correction.** Create circuits which can detect x and z errors on two qubits
 
 Ex: 4 **Transmon qubit.** Finding  transition frequency ** |1> --> |2> using the calibrated X-180 pulse and spectroscopy (sweeping frequency).
 
