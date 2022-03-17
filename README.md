@@ -10,4 +10,4 @@ Ex: 3 **Quantum error correction.** Create circuits which can detect x and z err
 
 Ex: 4 **Transmon qubit.** Finding  transition frequency ** |1> --> |2> using the calibrated X-180 pulse and spectroscopy (sweeping frequency).
 
-Ex: 5
+Ex: 5 $⟨a|b⟩$
